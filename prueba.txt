@@ -1,0 +1,4 @@
+mkdir para crear carpetas 
+clear para limpiar la terminal 
+nano nombreArchivo para crear un archivo de texto 
+cd nombreCarpeta para movernos de carpeta 
